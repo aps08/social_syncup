@@ -1,4 +1,4 @@
-# social-sync-up
+# social_syncup
 
 ![banner](banner.jpg)
 
@@ -58,7 +58,7 @@ All these secrets need to be setup in the [respository secret](https://docs.gith
 - This repository will only on worklfow dispatch. In order to run for every hour, uncomment line number 5 and 6 given in `.github/workflows/perform-syncup.yml`.
 - To customize the time when this repository runs change the cron notation give on line number 5 and 6 given in `.github/workflows/perform-syncup.yml`.
 - Create your custom cron notaton [here](https://crontab.guru)
-- Need customization is this code ? Reach out to me on [twitter] and I might be able to help you.
+- Need customization is this code ? Reach out to me on [twitter](https://twitter.com/aps08__) and I might be able to help you.
 - You only need secret from platforms you are using. Example: If working only with twiiter and discord, only those secrets are needed, and telegram can be ignored.
 
 -----------------------------------------------------------------------------------------------------------------
